@@ -1,6 +1,9 @@
-# if mod load boom
-Configuration file: config/ifmodloadboomConfig/IFMODLOADBOOM.json → {"BoomModlist":["BlackMod-ID"]}
+# Fabric Example Mod
 
-Change the "BlackMod-ID" to the mod you want to ban to work.
+## Setup
 
-For multiple mods, try {"BoomModlist":["BlackMod-ID1","BlackMod-ID2"]} 
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
