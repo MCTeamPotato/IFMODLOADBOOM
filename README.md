@@ -1,9 +1,19 @@
-# Fabric Example Mod
+# IFMODLOADBOOM
 
-## Setup
+## 使用-中文
+打开配置文件夹内的ifmodloadboomConfig/IFMODLOADBOOM.json  
+然后修改添加Modid:{"BoomModlist":["BlackMod-ID"]}  
+修改BlackMod-ID即可，如果想添加多项，可以看看以下示例  
+{"BoomModlist":["BlackMod-ID","BlackMod-ID2"]}
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
-## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Use-English
+Open ifmodloadbootConfig/IFMODLOADBOOM.json in the configuration folder  
+Then modify and add Modid: {"BoomModlist": ["BlackMod-ID"]}  
+Modify BlackMod-ID. If you want to add multiple items, see the following example  
+{"BoomModlist":["BlackMod-ID","BlackMod-ID2"]}  
+
+## 其他-other
+[MCMOD](https://www.mcmod.cn/author/28061.html) | MCTeamPotato.  
+[GitHub](https://github.com/MCTeamPotato) | MCTeamPotato.
