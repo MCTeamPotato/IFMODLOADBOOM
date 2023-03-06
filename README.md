@@ -1,7 +1,7 @@
 # IFMODLOADBOOM
 
 ## 使用-中文
-打开配置文件夹内的ifmodloadboomConfig/IFMODLOADBOOM.json  
+打开 config 文件夹内的ifmodloadboomConfig/IFMODLOADBOOM.json  
 
 然后修改添加Modid:{"BoomModlist":["BlackMod-ID"]}  
 
@@ -11,12 +11,12 @@
 
 
 
-## Use-English
-Open ifmodloadbootConfig/IFMODLOADBOOM.json in the configuration folder  
+## Usage-English
+Open ifmodloadbootConfig/IFMODLOADBOOM.json in the config folder  
 
 Then modify and add Modid: {"BoomModlist": ["BlackMod-ID"]}  
 
-Modify BlackMod-ID. If you want to add multiple items, see the following example  
+Modify BlackMod-ID. If you want to add multiple mods, see the following example  
 
 {"BoomModlist":["BlackMod-ID","BlackMod-ID2"]}  
 
