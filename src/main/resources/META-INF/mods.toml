@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="LGPL-v2.1"
+
+[[mods]]
+modId="howdareyouload"
+version="${file.jarVersion}"
+displayName="HowDareYouLoad"
+authors="Team Potato"
+description='''
+
+'''
