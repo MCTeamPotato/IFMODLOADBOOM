@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="LGPL-v2.1"
+license="GNU General Public License v3.0"
 
 [[mods]]
 modId="howdareyouload"
