@@ -43,7 +43,7 @@ public abstract class MixinMinecraft {
             }
         }
         try (BufferedReader reader = new BufferedReader(new FileReader(configFile))) {
-            JsonObject configObject = new JsonParser().parse(reader).getAsJsonObject();
+            JsonObject configObject = JsonParser.parseReader(reader).getAsJsonObject();
             JsonArray modList = configObject.getAsJsonArray("mods");
             for (JsonElement modElement : modList) {
                 String modId = modElement.getAsString();
